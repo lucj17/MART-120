@@ -1,2 +1,2 @@
 # MART-120
-Assignment Folder
+Assignments Folder
