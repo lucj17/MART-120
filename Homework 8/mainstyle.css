@@ -1,0 +1,34 @@
+span {
+    background-color: darkmagenta;
+    font-family: cursive;
+    color:white;
+}
+#page1Link {
+    background-color: darkolivegreen;
+    font-family: Georgia;
+    color: beige;
+    font-size: large;
+}
+#page2Link {
+    background-color: darkmagenta;
+    font-family: Georgia;
+    color: beige;
+    font-size: large;
+}
+#page3Link {
+    background-color:orangered;
+    font-family:Georgia;
+    color: beige;
+    font-size: large;
+}
+.header2 {
+    background-color: darkmagenta;
+    color: beige;
+}
+.header3 {
+    background-color: orangered;
+    color: beige;
+}
+.body1 {
+    background-image: url("C:\Users\makay\Lucas\UMT Spring22\MART 120\Homework 7\R.jfif");
+}
